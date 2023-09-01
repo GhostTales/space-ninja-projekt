@@ -11,7 +11,8 @@ config_version=5
 [application]
 
 config/name="space ninja"
-config/features=PackedStringArray("4.1", "Mobile")
+run/main_scene="res://Level/game_level.tscn"
+config/features=PackedStringArray("4.1", "C#", "Mobile")
 config/icon="res://icon.svg"
 
 [dotnet]
@@ -20,4 +21,5 @@ project/assembly_name="space ninja"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"

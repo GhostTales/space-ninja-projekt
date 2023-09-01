@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "space ninja", "space ninja.csproj", "{A200B1B0-34FC-470E-9794-218343CDF11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{A200B1B0-34FC-470E-9794-218343CDF11E}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
